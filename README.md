@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a name="readme-top"></a>
 
-## Getting Started
+<h1 align="center">Movie App</h1>
 
-First, run the development server:
+  <p align="center">A Simple Movie App is created to learn about Nextjs and Tailwind CSS
+    <br />
+    <br />
+    <a href="">View Deployed Project</a>
+  </p>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## About The Project
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img width="1434" alt="Demo" src="https://github.com/kuldeepyeware/paytm-clone/assets/83532405/3f4727fd-437a-45d6-9e09-9346e67c759b">
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br />
+The application is a user-friendly platform that offers an extensive collection of movies and TV shows. Users can access comprehensive reviews and detailed information through our app.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<br />
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
-## Learn More
+### Built With
 
-To learn more about Next.js, take a look at the following resources:
+- Nextjs
+- TMDB API
+- Tailwind CSS
+- Shadcn
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
