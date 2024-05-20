@@ -5,7 +5,7 @@
   <p align="center">A Simple Movie App is created to learn about Nextjs and Tailwind CSS
     <br />
     <br />
-    <a href="">View Deployed Project</a>
+    <a href="https://movie-app-six-ruby.vercel.app/">View Deployed Project</a>
   </p>
 </div>
 
