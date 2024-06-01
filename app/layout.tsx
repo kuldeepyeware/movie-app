@@ -10,6 +10,8 @@ export const metadata: Metadata = {
   description: "Created for Learning Purposes",
 };
 
+export const revalidate = 3600;
+
 export default function RootLayout({
   children,
 }: Readonly<{
